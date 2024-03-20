@@ -4,7 +4,7 @@
 - 💞️ I’m collaborating with DTx
 - 📫 How to reach me: Manuel.Alves@dtx-colab.pt
 - 😄 Pronouns: A pronoun is a word that refers to either the people talking (“I” or “you”) or someone or something that is being talked about (like “she”, “it”, “them”, and “this”).
-- ⚡ Fun fact: Ants don’t have lungs. They instead <a href="https://www.sciencefocus.com/nature/how-do-ants-breathe/target=_blank">breathe through spiracles</a>, nine or ten tiny openings, depending on the species.
+- ⚡ Fun fact: Ants don’t have lungs. They instead <a href="https://www.sciencefocus.com/nature/how-do-ants-breathe" target="_blank">breathe through spiracles</a>, nine or ten tiny openings, depending on the species.
 
 <!---
 ManuelAlvesDtx/ManuelAlvesDtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
